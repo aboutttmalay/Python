@@ -1,27 +1,18 @@
 Python Learning Journey by Malay Joshi
-<<<<<<< HEAD
 
 
 
 Welcome to my GitHub repository! This repository documents my Python learning journey inspired by Code with Harry, a famous YouTuber known for his exceptional teaching style. The content here is based on his Python Course video tutorial.
 
 You can watch the full tutorial on YouTube: Python Tutorial for Beginners - [Code With Harry](https://youtu.be/UrsmFxEIp5k?si=0ZG0sX8vp3q1M-85)
-=======
-Welcome to my GitHub repository! This repository documents my Python learning journey inspired by Code with Harry, a famous YouTuber known for his exceptional teaching style. The content here is based on his Python Course video tutorial.
-
-You can watch the full tutorial on YouTube: Python Tutorial for Beginners - Code With Harry
->>>>>>> e44f756cfc34623dff8563382f5a462f03b7e3d1
 
 📜 Table of Contents
 Below is a detailed breakdown of the topics covered in the video, along with their timestamps for easy reference:
 
-<<<<<<< HEAD
 
 
 
 
-=======
->>>>>>> e44f756cfc34623dff8563382f5a462f03b7e3d1
 Timestamp	Chapter Title
 00:00:00	Introduction
 00:02:05	Chapter 0 - What is Programming?
@@ -56,7 +47,6 @@ Timestamp	Chapter Title
 09:30:22	Mega Project 1: Jarvis
 10:17:56	Mega Project 2: Auto Reply AI Chatbot
 10:50:55	Conclusion
-<<<<<<< HEAD
 
 
 
@@ -70,14 +60,11 @@ Timestamp	Chapter Title
 
 
 
-=======
->>>>>>> e44f756cfc34623dff8563382f5a462f03b7e3d1
 🎯 About the Repository
 This repository contains:
 
 My Python Practice Code: Code examples from the chapters.
 Projects: Fully implemented Python projects like:
-<<<<<<< HEAD
 
 1->Snake, Water, Gun Game
 2->The Perfect Guess
@@ -93,28 +80,15 @@ Feel free to explore and contribute if you’d like to improve or expand upon th
 
 
 
-=======
-Snake, Water, Gun Game
-The Perfect Guess
-Jarvis
-Auto Reply AI Chatbot
-Notes: Key takeaways from each chapter to reinforce concepts.
-Feel free to explore and contribute if you’d like to improve or expand upon this work!
-
->>>>>>> e44f756cfc34623dff8563382f5a462f03b7e3d1
 📬 Connect with Me
 If you have any questions or suggestions, feel free to reach out to me:
 
 Name: Malay Joshi
-<<<<<<< HEAD
 GitHub Profile: https://github.com/joshimalay
 
 
 
 
 
-=======
-GitHub Profile: MalayJoshi
->>>>>>> e44f756cfc34623dff8563382f5a462f03b7e3d1
 Happy Coding! 😊
 
