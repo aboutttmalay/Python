@@ -55,7 +55,7 @@ Feel free to explore and contribute if you’d like to improve or expand upon th
 If you have any questions or suggestions, feel free to reach out to me:
 
 - **Name**: Malay Joshi
-- **GitHub Profile**: [MalayJoshi](https://github.com/MalayJoshi)
+- **GitHub Profile**: [Malay Joshi](https://github.com/joshimalay))
 
 Happy Coding! 😊
 
