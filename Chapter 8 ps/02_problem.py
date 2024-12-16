@@ -1,12 +1,9 @@
 # 2.
 # Write a python program using function to convert Celsius to Fahrenheit.
 
+def f_to_c(f):
+    return 5*(f-32)/9
 
-Celsius = float(input("Enter the Celsus Degree: "))
-
-def celsius_to_fahrenheit(Celsius):
-    Fahrenheit = Celsius * (9/5) +32
-    return Fahrenheit
-
-
-print(celsius_to_fahrenheit(Celsius))
+f = int(input("Enter temperature in F: "))
+c = f_to_c(f)
+print(f"{round(c, 2)}°C")
