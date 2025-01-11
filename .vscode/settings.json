@@ -1,4 +1,4 @@
 {
-    "github.copilot.editor.enableAutoCompletions": false,
-    "github.copilot.inlineSuggest.enable": true
+    "github.copilot.editor.enableAutoCompletions": true,
+    "editor.mouseWheelZoom": true
 }
