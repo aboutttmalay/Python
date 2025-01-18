@@ -28,9 +28,7 @@ Below is a detailed breakdown of the topics covered in the video:
 | Project 2: The Perfect Guess         |
 | Chapter 12 - Advanced Python 1       |
 | Chapter 13 - Advanced Python 2       |
-| Mega Project 1: Jarvis               |
-| Mega Project 2: Auto Reply AI Chatbot |
-| Conclusion                           |
+
 
 ---
 
